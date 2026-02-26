@@ -1,4 +1,4 @@
-let jobTitleInput = document.querySelector("jobTitle") 
+let jobTitleInput = document.querySelector("#jobTitle") 
 let companyInput = document.querySelector("#company")
 let locationInput = document.querySelector("#location")
 let expInput = document.querySelector("#expRequest")
