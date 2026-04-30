@@ -1,6 +1,7 @@
 # Full Stack Development - Set 3
 
-This repository contains solutions for **Set 3 Practical Questions**.
+This repository contains conduct done by myself  for **Set 3 Practical Questions** given in EST Practical.
+I have maintained this readme explicitly to ensure no confusion regarding set, as their were 2 sets today. I had Set 2 as my UID ends with even digit
 
 ---
 
